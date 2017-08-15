@@ -24,8 +24,8 @@ export class SettingsPage {
           this.city = location.city;
           this.state = location.state;
         } else {
-          this.city = 'Miami';
-          this.state = 'FL';
+          this.city = 'Delhi';
+          this.state = 'India';
         }
       });
   }
